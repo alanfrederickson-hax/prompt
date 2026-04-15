@@ -1,5 +1,8 @@
 body{
     background-image: url("images/backrooms.jpg");
+    @font-face {
+        font-family: "Arial";
+    }
 }
 
 h5 {
